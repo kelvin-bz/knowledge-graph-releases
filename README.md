@@ -11,3 +11,5 @@ private repository; this one holds only what the app has to fetch anonymously:
 
 The app verifies the signature against the public key compiled into it, and installs
 nothing unless that check passes.
+
+<!-- latest: knowledge-graph-v1.7.10 -->
